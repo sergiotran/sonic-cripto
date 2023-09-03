@@ -15,6 +15,10 @@ const Center = () => {
           <h3>CA:</h3>
           <span>0xC89BfD34a6369C0F8cCF43Ba38cB01b453d59729</span>
         </div>
+        <div className="flex flex-row gap-3">
+          <h3>Domain:</h3>
+          <span>Knuckle@kogerc.info</span>
+        </div>
       </div>
       <p className="border-white border-2 bg-[#d4241d] p-5 rounded-md text-lg max-w-4xl text-white font-bold">
         Knuckles OG is the ultimate fusion of memes and cryptocurrency. Join a
